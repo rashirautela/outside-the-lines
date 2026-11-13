@@ -1,0 +1,5702 @@
+[
+ {
+  "id": "TXH_15358_27069",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.852555261643296,
+  "lon": -95.63323974609375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15358_27069_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15358_27069_before.jpg",
+   "path": "images/TXH_15358_27069_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15358_27069_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15358_27069_after.jpg",
+   "path": "images/TXH_15358_27069_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 342.0,
+   "roads": 17.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "JERSEY VILLAGE 4.6 NW, TX US",
+   "station_km": 8.93,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": null
+    },
+    {
+     "date": "2017-08-22",
+     "mm": null
+    },
+    {
+     "date": "2017-08-23",
+     "mm": null
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 3.3
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 68.1
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 321.3
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 259.6
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 126.0
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15362_27075",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.823965538426563,
+  "lon": -95.61126708984375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15362_27075_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15362_27075_before.jpg",
+   "path": "images/TXH_15362_27075_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15362_27075_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15362_27075_after.jpg",
+   "path": "images/TXH_15362_27075_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 38.0,
+   "roads": 56.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 5.97,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15349_27095",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.728607407358894,
+  "lon": -95.68267822265625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15349_27095_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15349_27095_before.jpg",
+   "path": "images/TXH_15349_27095_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15349_27095_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15349_27095_after.jpg",
+   "path": "images/TXH_15349_27095_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 12.0,
+   "roads": 38.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "MISSION BEND 0.8 N, TX US",
+   "station_km": 3.08,
+   "total_7d_mm": 829.3,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": null
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 11.4
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 1.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 128.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 269.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 251.5
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 167.9
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15357_27076",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.81919978911247,
+  "lon": -95.63873291015625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15357_27076_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15357_27076_before.jpg",
+   "path": "images/TXH_15357_27076_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15357_27076_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15357_27076_after.jpg",
+   "path": "images/TXH_15357_27076_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 10.0,
+   "roads": 23.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 8.54,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15344_27089",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.757224379907363,
+  "lon": -95.71014404296875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15344_27089_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15344_27089_before.jpg",
+   "path": "images/TXH_15344_27089_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15344_27089_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15344_27089_after.jpg",
+   "path": "images/TXH_15344_27089_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 11.0,
+   "roads": 29.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "MISSION BEND 5.7 NNW, TX US",
+   "station_km": 0.99,
+   "total_7d_mm": 868.6,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.5
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 114.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 286.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 316.7
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 150.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15349_27084",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.78106561686911,
+  "lon": -95.68267822265625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15349_27084_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15349_27084_before.jpg",
+   "path": "images/TXH_15349_27084_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15349_27084_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15349_27084_after.jpg",
+   "path": "images/TXH_15349_27084_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 14.0,
+   "roads": 53.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "MISSION BEND 5.7 NNW, TX US",
+   "station_km": 3.01,
+   "total_7d_mm": 868.6,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.5
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 114.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 286.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 316.7
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 150.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15348_27081",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.795367634821787,
+  "lon": -95.68817138671875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15348_27081_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15348_27081_before.jpg",
+   "path": "images/TXH_15348_27081_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15348_27081_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15348_27081_after.jpg",
+   "path": "images/TXH_15348_27081_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 89.0,
+   "roads": 260.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "MISSION BEND 5.7 NNW, TX US",
+   "station_km": 3.81,
+   "total_7d_mm": 868.6,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.5
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 114.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 286.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 316.7
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 150.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15355_27093",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.73814730560134,
+  "lon": -95.64971923828125,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15355_27093_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15355_27093_before.jpg",
+   "path": "images/TXH_15355_27093_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15355_27093_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15355_27093_after.jpg",
+   "path": "images/TXH_15355_27093_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 12.0,
+   "roads": 33.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "MISSION BEND 0.8 N, TX US",
+   "station_km": 3.94,
+   "total_7d_mm": 829.3,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": null
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 11.4
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 1.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 128.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 269.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 251.5
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 167.9
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15345_27088",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.761993081233456,
+  "lon": -95.70465087890625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15345_27088_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15345_27088_before.jpg",
+   "path": "images/TXH_15345_27088_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15345_27088_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15345_27088_after.jpg",
+   "path": "images/TXH_15345_27088_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 18.0,
+   "roads": 85.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "MISSION BEND 5.7 NNW, TX US",
+   "station_km": 0.59,
+   "total_7d_mm": 868.6,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.5
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 114.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 286.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 316.7
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 150.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15352_27082",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.790600522574728,
+  "lon": -95.66619873046875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15352_27082_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15352_27082_before.jpg",
+   "path": "images/TXH_15352_27082_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15352_27082_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15352_27082_after.jpg",
+   "path": "images/TXH_15352_27082_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 20.0,
+   "roads": 131.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "MISSION BEND 5.7 NNW, TX US",
+   "station_km": 4.92,
+   "total_7d_mm": 868.6,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.5
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 114.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 286.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 316.7
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 150.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15354_27072",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.838261422882184,
+  "lon": -95.65521240234375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15354_27072_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15354_27072_before.jpg",
+   "path": "images/TXH_15354_27072_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15354_27072_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15354_27072_after.jpg",
+   "path": "images/TXH_15354_27072_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 288.0,
+   "roads": 25.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KATY 5.2 E, TX US",
+   "station_km": 9.25,
+   "total_7d_mm": 848.4,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 95.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 270.0
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 342.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 140.5
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15356_27082",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.790600522574728,
+  "lon": -95.64422607421875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15356_27082_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15356_27082_before.jpg",
+   "path": "images/TXH_15356_27082_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15356_27082_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15356_27082_after.jpg",
+   "path": "images/TXH_15356_27082_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 61.0,
+   "roads": 151.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 4.4 WSW, TX US",
+   "station_km": 6.38,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": null
+    },
+    {
+     "date": "2017-08-17",
+     "mm": null
+    },
+    {
+     "date": "2017-08-18",
+     "mm": null
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": null
+    },
+    {
+     "date": "2017-08-24",
+     "mm": null
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 2.3
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 87.6
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 330.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 230.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 236.2
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15354_27082",
+  "locality": "West Houston / Addicks and Barker",
+  "lat": 29.790600522574728,
+  "lon": -95.65521240234375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15354_27082_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15354_27082_before.jpg",
+   "path": "images/TXH_15354_27082_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15354_27082_after_20170830_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TXH_15354_27082_after.jpg",
+   "path": "images/TXH_15354_27082_after_20170830_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 31.0,
+   "roads": 49.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "MISSION BEND 5.7 NNW, TX US",
+   "station_km": 5.83,
+   "total_7d_mm": 868.6,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.5
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 114.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 286.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 316.7
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 150.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15361_27136",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.532839835219754,
+  "lon": -95.61676025390625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15361_27136_before_20161010_USDA",
+   "date": "2016-10-10",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15361_27136_before.jpg",
+   "path": "images/TXH_15361_27136_before_20161010_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15361_27136_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15361_27136_after.jpg",
+   "path": "images/TXH_15361_27136_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 10.0,
+   "roads": 4.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "THOMPSONS 3 WSW, TX US",
+   "station_km": 5.82,
+   "total_7d_mm": 550.9,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 3.8
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 208.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 285.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 45.7
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 1.3
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 6.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15345_27129",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.566290488324782,
+  "lon": -95.70465087890625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15345_27129_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15345_27129_before.jpg",
+   "path": "images/TXH_15345_27129_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15345_27129_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15345_27129_after.jpg",
+   "path": "images/TXH_15345_27129_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 11.0,
+   "roads": 9.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND 4.6 SE, TX US",
+   "station_km": 4.78,
+   "total_7d_mm": 703.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": null
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 182.1
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 217.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 168.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 133.6
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 2.3
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15363_27136",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.532839835219754,
+  "lon": -95.60577392578125,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15363_27136_before_20161010_USDA",
+   "date": "2016-10-10",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15363_27136_before.jpg",
+   "path": "images/TXH_15363_27136_before_20161010_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15363_27136_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15363_27136_after.jpg",
+   "path": "images/TXH_15363_27136_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 33.0,
+   "roads": 13.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "THOMPSONS 3 WSW, TX US",
+   "station_km": 6.16,
+   "total_7d_mm": 550.9,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 3.8
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 208.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 285.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 45.7
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 1.3
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 6.6
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15338_27122",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.599730066107348,
+  "lon": -95.74310302734375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15338_27122_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15338_27122_before.jpg",
+   "path": "images/TXH_15338_27122_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15338_27122_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15338_27122_after.jpg",
+   "path": "images/TXH_15338_27122_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 59.0,
+   "roads": 54.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND 2.9 NE, TX US",
+   "station_km": 1.75,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 3.6
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 5.1
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 220.7
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 180.6
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 339.6
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 182.6
+    },
+    {
+     "date": "2017-08-30",
+     "mm": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15337_27121",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.604506244089414,
+  "lon": -95.74859619140625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15337_27121_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15337_27121_before.jpg",
+   "path": "images/TXH_15337_27121_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15337_27121_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15337_27121_after.jpg",
+   "path": "images/TXH_15337_27121_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 57.0,
+   "roads": 21.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND 2.9 NE, TX US",
+   "station_km": 1.82,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 3.6
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 5.1
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 220.7
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 180.6
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 339.6
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 182.6
+    },
+    {
+     "date": "2017-08-30",
+     "mm": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15327_27129",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.566290488324782,
+  "lon": -95.80352783203125,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15327_27129_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15327_27129_before.jpg",
+   "path": "images/TXH_15327_27129_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15327_27129_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15327_27129_after.jpg",
+   "path": "images/TXH_15327_27129_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 19.0,
+   "roads": 19.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND, TX US",
+   "station_km": 5.06,
+   "total_7d_mm": 770.7,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 6.1
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 169.7
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 280.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 176.0
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 137.4
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 1.3
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15344_27129",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.566290488324782,
+  "lon": -95.71014404296875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15344_27129_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15344_27129_before.jpg",
+   "path": "images/TXH_15344_27129_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15344_27129_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15344_27129_after.jpg",
+   "path": "images/TXH_15344_27129_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 92.0,
+   "roads": 19.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND 4.6 SE, TX US",
+   "station_km": 4.62,
+   "total_7d_mm": 703.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": null
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 182.1
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 217.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 168.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 133.6
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 2.3
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15336_27122",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.599730066107348,
+  "lon": -95.75408935546875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15336_27122_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15336_27122_before.jpg",
+   "path": "images/TXH_15336_27122_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15336_27122_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15336_27122_after.jpg",
+   "path": "images/TXH_15336_27122_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 119.0,
+   "roads": 24.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND, TX US",
+   "station_km": 1.77,
+   "total_7d_mm": 770.7,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 6.1
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 169.7
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 280.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 176.0
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 137.4
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 1.3
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15325_27130",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.56151250149619,
+  "lon": -95.81451416015625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15325_27130_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15325_27130_before.jpg",
+   "path": "images/TXH_15325_27130_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15325_27130_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15325_27130_after.jpg",
+   "path": "images/TXH_15325_27130_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 131.0,
+   "roads": 31.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND, TX US",
+   "station_km": 6.25,
+   "total_7d_mm": 770.7,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 6.1
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 169.7
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 280.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 176.0
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 137.4
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 1.3
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15326_27130",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.56151250149619,
+  "lon": -95.80902099609375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15326_27130_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15326_27130_before.jpg",
+   "path": "images/TXH_15326_27130_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15326_27130_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15326_27130_after.jpg",
+   "path": "images/TXH_15326_27130_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 92.0,
+   "roads": 40.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND, TX US",
+   "station_km": 5.76,
+   "total_7d_mm": 770.7,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 6.1
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 169.7
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 280.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 176.0
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 137.4
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 1.3
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15326_27124",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.590177031612015,
+  "lon": -95.80902099609375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15326_27124_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15326_27124_before.jpg",
+   "path": "images/TXH_15326_27124_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15326_27124_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15326_27124_after.jpg",
+   "path": "images/TXH_15326_27124_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 80.0,
+   "roads": 15.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND, TX US",
+   "station_km": 5.25,
+   "total_7d_mm": 770.7,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 6.1
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 169.7
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 280.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 176.0
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 137.4
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 1.3
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15347_27126",
+  "locality": "Richmond / Rosenberg / Brazos",
+  "lat": 29.58062309255834,
+  "lon": -95.69366455078125,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15347_27126_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15347_27126_before.jpg",
+   "path": "images/TXH_15347_27126_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15347_27126_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15347_27126_after.jpg",
+   "path": "images/TXH_15347_27126_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 98.0,
+   "roads": 35.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "RICHMOND 2.9 NE, TX US",
+   "station_km": 5.08,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 3.6
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 5.1
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 220.7
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 180.6
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 339.6
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 182.6
+    },
+    {
+     "date": "2017-08-30",
+     "mm": null
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15431_27033",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.023921545981857,
+  "lon": -95.23223876953125,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15431_27033_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15431_27033_before.jpg",
+   "path": "images/TXH_15431_27033_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15431_27033_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15431_27033_after.jpg",
+   "path": "images/TXH_15431_27033_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 34.0,
+   "roads": 11.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 2.4 W, TX US",
+   "station_km": 3.97,
+   "total_7d_mm": 785.4,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 48.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 258.3
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 281.9
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.8
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 38.1
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15439_27034",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.01916535942554,
+  "lon": -95.18829345703125,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15439_27034_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15439_27034_before.jpg",
+   "path": "images/TXH_15439_27034_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15439_27034_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15439_27034_after.jpg",
+   "path": "images/TXH_15439_27034_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 21.0,
+   "roads": 8.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 3.9 S, TX US",
+   "station_km": 2.03,
+   "total_7d_mm": 817.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 23.9
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 253.7
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 341.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.2
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 40.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15426_27031",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.033433234603997,
+  "lon": -95.25970458984375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15426_27031_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15426_27031_before.jpg",
+   "path": "images/TXH_15426_27031_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15426_27031_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15426_27031_after.jpg",
+   "path": "images/TXH_15426_27031_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 10.0,
+   "roads": 47.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 2.4 W, TX US",
+   "station_km": 4.31,
+   "total_7d_mm": 785.4,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 48.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 258.3
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 281.9
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.8
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 38.1
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15441_27034",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.01916535942554,
+  "lon": -95.17730712890625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15441_27034_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15441_27034_before.jpg",
+   "path": "images/TXH_15441_27034_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15441_27034_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15441_27034_after.jpg",
+   "path": "images/TXH_15441_27034_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 44.0,
+   "roads": 20.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 3.9 S, TX US",
+   "station_km": 2.61,
+   "total_7d_mm": 817.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 23.9
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 253.7
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 341.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.2
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 40.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15438_27028",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.04769905598378,
+  "lon": -95.19378662109375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15438_27028_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15438_27028_before.jpg",
+   "path": "images/TXH_15438_27028_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15438_27028_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15438_27028_after.jpg",
+   "path": "images/TXH_15438_27028_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 10.0,
+   "roads": 25.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 2.4 W, TX US",
+   "station_km": 3.37,
+   "total_7d_mm": 785.4,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 48.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 258.3
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 281.9
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.8
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 38.1
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15440_27034",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.01916535942554,
+  "lon": -95.18280029296875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15440_27034_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15440_27034_before.jpg",
+   "path": "images/TXH_15440_27034_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15440_27034_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15440_27034_after.jpg",
+   "path": "images/TXH_15440_27034_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 27.0,
+   "roads": 43.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 3.9 S, TX US",
+   "station_km": 2.28,
+   "total_7d_mm": 817.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 23.9
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 253.7
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 341.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.2
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 40.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15427_27030",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.038188736626196,
+  "lon": -95.25421142578125,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15427_27030_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15427_27030_before.jpg",
+   "path": "images/TXH_15427_27030_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15427_27030_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15427_27030_after.jpg",
+   "path": "images/TXH_15427_27030_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 37.0,
+   "roads": 93.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 2.4 W, TX US",
+   "station_km": 3.57,
+   "total_7d_mm": 785.4,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 48.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 258.3
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 281.9
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.8
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 38.1
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15441_27035",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.014408944734836,
+  "lon": -95.17730712890625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15441_27035_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15441_27035_before.jpg",
+   "path": "images/TXH_15441_27035_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15441_27035_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15441_27035_after.jpg",
+   "path": "images/TXH_15441_27035_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 94.0,
+   "roads": 25.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 3.9 S, TX US",
+   "station_km": 2.26,
+   "total_7d_mm": 817.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 23.9
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 253.7
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 341.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.2
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 40.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15426_27028",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.04769905598378,
+  "lon": -95.25970458984375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15426_27028_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15426_27028_before.jpg",
+   "path": "images/TXH_15426_27028_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15426_27028_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15426_27028_after.jpg",
+   "path": "images/TXH_15426_27028_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 12.0,
+   "roads": 54.0
+  },
+  "county": {
+   "name": "Montgomery County",
+   "poverty_pct": 12.0,
+   "no_vehicle_pct": 3.52,
+   "disability_pct": 10.52,
+   "age65_pct": 11.66,
+   "population": 502586.0
+  },
+  "rain": {
+   "station": "KINGWOOD 2.4 W, TX US",
+   "station_km": 3.47,
+   "total_7d_mm": 785.4,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 48.3
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 258.3
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 281.9
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.8
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 38.1
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15442_27035",
+  "locality": "Forest Cove / Kingwood",
+  "lat": 30.014408944734836,
+  "lon": -95.17181396484375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15442_27035_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15442_27035_before.jpg",
+   "path": "images/TXH_15442_27035_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15442_27035_after_20170831_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TXH_15442_27035_after.jpg",
+   "path": "images/TXH_15442_27035_after_20170831_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 31.0,
+   "roads": 26.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 3.9 S, TX US",
+   "station_km": 2.7,
+   "total_7d_mm": 817.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 23.9
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 253.7
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 341.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.2
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 40.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15607_27007",
+  "locality": "Bevil Oaks / Pine Island Bayou",
+  "lat": 30.14750224990909,
+  "lon": -94.26544189453125,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15607_27007_before_20160921_USDA",
+   "date": "2016-09-21",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15607_27007_before.jpg",
+   "path": "images/TXH_15607_27007_before_20160921_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15607_27007_after_20170901_NOAA",
+   "date": "2017-09-01",
+   "source": "NOAA",
+   "img": "img/TXH_15607_27007_after.jpg",
+   "path": "images/TXH_15607_27007_after_20170901_NOAA.png"
+  },
+  "fema": {
+   "high_risk": null,
+   "zones": []
+  },
+  "osm": {
+   "buildings": 50.0,
+   "roads": 9.0
+  },
+  "county": {
+   "name": "Jefferson County",
+   "poverty_pct": 19.89,
+   "no_vehicle_pct": 8.92,
+   "disability_pct": 13.99,
+   "age65_pct": 13.15,
+   "population": 252872.0
+  },
+  "rain": {
+   "station": "BEAUMONT 3.3 SW, TX US",
+   "station_km": 13.25,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 6.9
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 2.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 2.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 4.6
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 34.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 148.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 314.5
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 287.5
+    },
+    {
+     "date": "2017-08-30",
+     "mm": null
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 43.7
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15610_27008",
+  "locality": "Bevil Oaks / Pine Island Bayou",
+  "lat": 30.142752002487924,
+  "lon": -94.24896240234375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15610_27008_before_20160921_USDA",
+   "date": "2016-09-21",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15610_27008_before.jpg",
+   "path": "images/TXH_15610_27008_before_20160921_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15610_27008_after_20170901_NOAA",
+   "date": "2017-09-01",
+   "source": "NOAA",
+   "img": "img/TXH_15610_27008_after.jpg",
+   "path": "images/TXH_15610_27008_after_20170901_NOAA.png"
+  },
+  "fema": {
+   "high_risk": null,
+   "zones": []
+  },
+  "osm": {
+   "buildings": 104.0,
+   "roads": 12.0
+  },
+  "county": {
+   "name": "Jefferson County",
+   "poverty_pct": 19.89,
+   "no_vehicle_pct": 8.92,
+   "disability_pct": 13.99,
+   "age65_pct": 13.15,
+   "population": 252872.0
+  },
+  "rain": {
+   "station": "BEAUMONT 3.3 SW, TX US",
+   "station_km": 11.91,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 6.9
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 2.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 2.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 4.6
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 34.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 148.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 314.5
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 287.5
+    },
+    {
+     "date": "2017-08-30",
+     "mm": null
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 43.7
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15606_27004",
+  "locality": "Bevil Oaks / Pine Island Bayou",
+  "lat": 30.16175161975864,
+  "lon": -94.27093505859375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15606_27004_before_20160921_USDA",
+   "date": "2016-09-21",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15606_27004_before.jpg",
+   "path": "images/TXH_15606_27004_before_20160921_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15606_27004_after_20170901_NOAA",
+   "date": "2017-09-01",
+   "source": "NOAA",
+   "img": "img/TXH_15606_27004_after.jpg",
+   "path": "images/TXH_15606_27004_after_20170901_NOAA.png"
+  },
+  "fema": {
+   "high_risk": null,
+   "zones": []
+  },
+  "osm": {
+   "buildings": 35.0,
+   "roads": 7.0
+  },
+  "county": {
+   "name": "Jefferson County",
+   "poverty_pct": 19.89,
+   "no_vehicle_pct": 8.92,
+   "disability_pct": 13.99,
+   "age65_pct": 13.15,
+   "population": 252872.0
+  },
+  "rain": {
+   "station": "LUMBERTON 1.2 WNW, TX US",
+   "station_km": 13.2,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-18",
+     "mm": null
+    },
+    {
+     "date": "2017-08-19",
+     "mm": null
+    },
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": null
+    },
+    {
+     "date": "2017-08-22",
+     "mm": null
+    },
+    {
+     "date": "2017-08-23",
+     "mm": null
+    },
+    {
+     "date": "2017-08-24",
+     "mm": null
+    },
+    {
+     "date": "2017-08-25",
+     "mm": null
+    },
+    {
+     "date": "2017-08-26",
+     "mm": null
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 137.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 257.8
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 135.6
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 376.2
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 71.9
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15606_27007",
+  "locality": "Bevil Oaks / Pine Island Bayou",
+  "lat": 30.14750224990909,
+  "lon": -94.27093505859375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15606_27007_before_20160921_USDA",
+   "date": "2016-09-21",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15606_27007_before.jpg",
+   "path": "images/TXH_15606_27007_before_20160921_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15606_27007_after_20170901_NOAA",
+   "date": "2017-09-01",
+   "source": "NOAA",
+   "img": "img/TXH_15606_27007_after.jpg",
+   "path": "images/TXH_15606_27007_after_20170901_NOAA.png"
+  },
+  "fema": {
+   "high_risk": null,
+   "zones": []
+  },
+  "osm": {
+   "buildings": 27.0,
+   "roads": 7.0
+  },
+  "county": {
+   "name": "Jefferson County",
+   "poverty_pct": 19.89,
+   "no_vehicle_pct": 8.92,
+   "disability_pct": 13.99,
+   "age65_pct": 13.15,
+   "population": 252872.0
+  },
+  "rain": {
+   "station": "BEAUMONT 3.3 SW, TX US",
+   "station_km": 13.58,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 6.9
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 2.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 2.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 4.6
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 34.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 148.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 314.5
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 287.5
+    },
+    {
+     "date": "2017-08-30",
+     "mm": null
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 43.7
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15606_27005",
+  "locality": "Bevil Oaks / Pine Island Bayou",
+  "lat": 30.157002058566075,
+  "lon": -94.27093505859375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15606_27005_before_20160921_USDA",
+   "date": "2016-09-21",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15606_27005_before.jpg",
+   "path": "images/TXH_15606_27005_before_20160921_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15606_27005_after_20170901_NOAA",
+   "date": "2017-09-01",
+   "source": "NOAA",
+   "img": "img/TXH_15606_27005_after.jpg",
+   "path": "images/TXH_15606_27005_after_20170901_NOAA.png"
+  },
+  "fema": {
+   "high_risk": null,
+   "zones": []
+  },
+  "osm": {
+   "buildings": 71.0,
+   "roads": 6.0
+  },
+  "county": {
+   "name": "Jefferson County",
+   "poverty_pct": 19.89,
+   "no_vehicle_pct": 8.92,
+   "disability_pct": 13.99,
+   "age65_pct": 13.15,
+   "population": 252872.0
+  },
+  "rain": {
+   "station": "LUMBERTON, TX US",
+   "station_km": 13.67,
+   "total_7d_mm": 948.7,
+   "daily": [
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 10.7
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 16.5
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 7.6
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 128.3
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 227.3
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 121.9
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 389.9
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 57.2
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15609_27009",
+  "locality": "Bevil Oaks / Pine Island Bayou",
+  "lat": 30.138001526367162,
+  "lon": -94.25445556640625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15609_27009_before_20160921_USDA",
+   "date": "2016-09-21",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15609_27009_before.jpg",
+   "path": "images/TXH_15609_27009_before_20160921_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15609_27009_after_20170901_NOAA",
+   "date": "2017-09-01",
+   "source": "NOAA",
+   "img": "img/TXH_15609_27009_after.jpg",
+   "path": "images/TXH_15609_27009_after_20170901_NOAA.png"
+  },
+  "fema": {
+   "high_risk": null,
+   "zones": []
+  },
+  "osm": {
+   "buildings": 42.0,
+   "roads": 6.0
+  },
+  "county": {
+   "name": "Jefferson County",
+   "poverty_pct": 19.89,
+   "no_vehicle_pct": 8.92,
+   "disability_pct": 13.99,
+   "age65_pct": 13.15,
+   "population": 252872.0
+  },
+  "rain": {
+   "station": "BEAUMONT 3.3 SW, TX US",
+   "station_km": 11.77,
+   "total_7d_mm": null,
+   "daily": [
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 6.9
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 2.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 2.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 4.6
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 34.0
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 148.8
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 314.5
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 287.5
+    },
+    {
+     "date": "2017-08-30",
+     "mm": null
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 43.7
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15284_27107",
+  "locality": "Simonton / Brazos",
+  "lat": 29.67134897388582,
+  "lon": -96.03973388671875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15284_27107_before_20160929_USDA",
+   "date": "2016-09-29",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15284_27107_before.jpg",
+   "path": "images/TXH_15284_27107_before_20160929_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15284_27107_after_20170903_NOAA",
+   "date": "2017-09-03",
+   "source": "NOAA",
+   "img": "img/TXH_15284_27107_after.jpg",
+   "path": "images/TXH_15284_27107_after_20170903_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 0.0,
+   "roads": 1.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "WALLIS 1.1 NE, TX US",
+   "station_km": 3.53,
+   "total_7d_mm": 370.3,
+   "daily": [
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": null
+    },
+    {
+     "date": "2017-08-22",
+     "mm": null
+    },
+    {
+     "date": "2017-08-23",
+     "mm": null
+    },
+    {
+     "date": "2017-08-24",
+     "mm": null
+    },
+    {
+     "date": "2017-08-25",
+     "mm": null
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 184.2
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 154.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 119.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 97.0
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-09-01",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-09-02",
+     "mm": 0.0
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15286_27107",
+  "locality": "Simonton / Brazos",
+  "lat": 29.67134897388582,
+  "lon": -96.02874755859375,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15286_27107_before_20160929_USDA",
+   "date": "2016-09-29",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15286_27107_before.jpg",
+   "path": "images/TXH_15286_27107_before_20160929_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15286_27107_after_20170903_NOAA",
+   "date": "2017-09-03",
+   "source": "NOAA",
+   "img": "img/TXH_15286_27107_after.jpg",
+   "path": "images/TXH_15286_27107_after_20170903_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 0.0,
+   "roads": 1.0
+  },
+  "county": {
+   "name": "Austin County",
+   "poverty_pct": 11.5,
+   "no_vehicle_pct": 2.75,
+   "disability_pct": 12.37,
+   "age65_pct": 17.03,
+   "population": 28886.0
+  },
+  "rain": {
+   "station": "WALLIS 1.1 NE, TX US",
+   "station_km": 3.99,
+   "total_7d_mm": 370.3,
+   "daily": [
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": null
+    },
+    {
+     "date": "2017-08-22",
+     "mm": null
+    },
+    {
+     "date": "2017-08-23",
+     "mm": null
+    },
+    {
+     "date": "2017-08-24",
+     "mm": null
+    },
+    {
+     "date": "2017-08-25",
+     "mm": null
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 184.2
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 154.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 119.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 97.0
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-09-01",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-09-02",
+     "mm": 0.0
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15288_27105",
+  "locality": "Simonton / Brazos",
+  "lat": 29.680894312383625,
+  "lon": -96.01776123046875,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15288_27105_before_20160929_USDA",
+   "date": "2016-09-29",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15288_27105_before.jpg",
+   "path": "images/TXH_15288_27105_before_20160929_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15288_27105_after_20170903_NOAA",
+   "date": "2017-09-03",
+   "source": "NOAA",
+   "img": "img/TXH_15288_27105_after.jpg",
+   "path": "images/TXH_15288_27105_after_20170903_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 0.0,
+   "roads": 3.0
+  },
+  "county": {
+   "name": "Austin County",
+   "poverty_pct": 11.5,
+   "no_vehicle_pct": 2.75,
+   "disability_pct": 12.37,
+   "age65_pct": 17.03,
+   "population": 28886.0
+  },
+  "rain": {
+   "station": "WALLIS 1.1 NE, TX US",
+   "station_km": 5.47,
+   "total_7d_mm": 370.3,
+   "daily": [
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": null
+    },
+    {
+     "date": "2017-08-22",
+     "mm": null
+    },
+    {
+     "date": "2017-08-23",
+     "mm": null
+    },
+    {
+     "date": "2017-08-24",
+     "mm": null
+    },
+    {
+     "date": "2017-08-25",
+     "mm": null
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 184.2
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 154.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 119.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 97.0
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-09-01",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-09-02",
+     "mm": 0.0
+    }
+   ]
+  }
+ },
+ {
+  "id": "TXH_15293_27108",
+  "locality": "Simonton / Brazos",
+  "lat": 29.666575964844323,
+  "lon": -95.99029541015625,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TXH_15293_27108_before_20160928_USDA",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TXH_15293_27108_before.jpg",
+   "path": "images/TXH_15293_27108_before_20160928_USDA.png"
+  },
+  "after": {
+   "id": "TXH_15293_27108_after_20170903_NOAA",
+   "date": "2017-09-03",
+   "source": "NOAA",
+   "img": "img/TXH_15293_27108_after.jpg",
+   "path": "images/TXH_15293_27108_after_20170903_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 0.0,
+   "roads": 2.0
+  },
+  "county": {
+   "name": "Fort Bend County",
+   "poverty_pct": 8.24,
+   "no_vehicle_pct": 2.56,
+   "disability_pct": 7.82,
+   "age65_pct": 8.96,
+   "population": 658331.0
+  },
+  "rain": {
+   "station": "WALLIS 1.1 NE, TX US",
+   "station_km": 6.52,
+   "total_7d_mm": 370.3,
+   "daily": [
+    {
+     "date": "2017-08-20",
+     "mm": null
+    },
+    {
+     "date": "2017-08-21",
+     "mm": null
+    },
+    {
+     "date": "2017-08-22",
+     "mm": null
+    },
+    {
+     "date": "2017-08-23",
+     "mm": null
+    },
+    {
+     "date": "2017-08-24",
+     "mm": null
+    },
+    {
+     "date": "2017-08-25",
+     "mm": null
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 184.2
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 154.2
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 119.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 97.0
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-31",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-09-01",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-09-02",
+     "mm": 0.0
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX008",
+  "locality": "Bear Creek / west Houston",
+  "lat": 29.83349638,
+  "lon": -95.63873291,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX008_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX008_before.jpg",
+   "path": "images/TX008_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX008_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX008_after.jpg",
+   "path": "images/TX008_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 1.0,
+   "roads": 10.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 8.79,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX010",
+  "locality": "Bear Creek / west Houston",
+  "lat": 29.83349638,
+  "lon": -95.62774658,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX010_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX010_before.jpg",
+   "path": "images/TX010_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX010_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX010_after.jpg",
+   "path": "images/TX010_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 8.0,
+   "roads": 29.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 7.77,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX004",
+  "locality": "Bear Creek / west Houston",
+  "lat": 29.83826145,
+  "lon": -95.63873291,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX004_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX004_before.jpg",
+   "path": "images/TX004_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX004_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX004_after.jpg",
+   "path": "images/TX004_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 197.0,
+   "roads": 43.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 8.94,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX002",
+  "locality": "Bear Creek / west Houston",
+  "lat": 29.84302629,
+  "lon": -95.63323975,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX002_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX002_before.jpg",
+   "path": "images/TX002_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX002_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX002_after.jpg",
+   "path": "images/TX002_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 252.0,
+   "roads": 40.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 8.62,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX001",
+  "locality": "Bear Creek / west Houston",
+  "lat": 29.84302629,
+  "lon": -95.63873291,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX001_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX001_before.jpg",
+   "path": "images/TX001_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX001_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX001_after.jpg",
+   "path": "images/TX001_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 291.0,
+   "roads": 35.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 9.11,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX013",
+  "locality": "Eldridge / northwest Houston",
+  "lat": 29.85255529,
+  "lon": -95.61676025,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX013_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX013_before.jpg",
+   "path": "images/TX013_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX013_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX013_after.jpg",
+   "path": "images/TX013_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 78.0,
+   "roads": 24.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 7.71,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX016",
+  "locality": "Eldridge / northwest Houston",
+  "lat": 29.8477909,
+  "lon": -95.61126709,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX016_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX016_before.jpg",
+   "path": "images/TX016_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX016_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX016_after.jpg",
+   "path": "images/TX016_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 121.0,
+   "roads": 24.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 6.97,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX011",
+  "locality": "Eldridge / northwest Houston",
+  "lat": 29.85731945,
+  "lon": -95.61676025,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX011_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX011_before.jpg",
+   "path": "images/TX011_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX011_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX011_after.jpg",
+   "path": "images/TX011_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 290.0,
+   "roads": 23.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 8.02,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX017",
+  "locality": "Eldridge / northwest Houston",
+  "lat": 29.8477909,
+  "lon": -95.60577393,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX017_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX017_before.jpg",
+   "path": "images/TX017_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX017_2017_NOAA",
+   "date": "2017-08-30",
+   "source": "NOAA",
+   "img": "img/TX017_after.jpg",
+   "path": "images/TX017_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": false,
+   "zones": [
+    "X"
+   ]
+  },
+  "osm": {
+   "buildings": 176.0,
+   "roads": 42.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "BUNKER HILL VILLAGE 3.6 NNW, TX US",
+   "station_km": 6.54,
+   "total_7d_mm": 720.5,
+   "daily": [
+    {
+     "date": "2017-08-16",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-17",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 60.5
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 284.5
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 210.1
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 165.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX020",
+  "locality": "Kingwood / northeast Houston",
+  "lat": 30.03343326,
+  "lon": -95.18829346,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX020_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX020_before.jpg",
+   "path": "images/TX020_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX020_2017_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TX020_after.jpg",
+   "path": "images/TX020_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 0.0,
+   "roads": 3.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 3.9 S, TX US",
+   "station_km": 3.55,
+   "total_7d_mm": 817.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 23.9
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 253.7
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 341.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.2
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 40.4
+    }
+   ]
+  }
+ },
+ {
+  "id": "TX023",
+  "locality": "Kingwood / northeast Houston",
+  "lat": 30.02867753,
+  "lon": -95.19378662,
+  "event": "Hurricane Harvey",
+  "before": {
+   "id": "TX023_2016_NAIP",
+   "date": "2016-09-28",
+   "source": "USDA NAIP",
+   "img": "img/TX023_before.jpg",
+   "path": "images/TX023_2016_NAIP.png"
+  },
+  "after": {
+   "id": "TX023_2017_NOAA",
+   "date": "2017-08-31",
+   "source": "NOAA",
+   "img": "img/TX023_after.jpg",
+   "path": "images/TX023_2017_NOAA.png"
+  },
+  "fema": {
+   "high_risk": true,
+   "zones": [
+    "AE"
+   ]
+  },
+  "osm": {
+   "buildings": 0.0,
+   "roads": 6.0
+  },
+  "county": {
+   "name": "Harris County",
+   "poverty_pct": 17.96,
+   "no_vehicle_pct": 6.7,
+   "disability_pct": 9.29,
+   "age65_pct": 8.94,
+   "population": 4356362.0
+  },
+  "rain": {
+   "station": "KINGWOOD 3.9 S, TX US",
+   "station_km": 2.95,
+   "total_7d_mm": 817.6,
+   "daily": [
+    {
+     "date": "2017-08-17",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-18",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-19",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-20",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-21",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-22",
+     "mm": 0.8
+    },
+    {
+     "date": "2017-08-23",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-24",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-25",
+     "mm": 0.0
+    },
+    {
+     "date": "2017-08-26",
+     "mm": 23.9
+    },
+    {
+     "date": "2017-08-27",
+     "mm": 253.7
+    },
+    {
+     "date": "2017-08-28",
+     "mm": 341.4
+    },
+    {
+     "date": "2017-08-29",
+     "mm": 158.2
+    },
+    {
+     "date": "2017-08-30",
+     "mm": 40.4
+    }
+   ]
+  }
+ }
+]
